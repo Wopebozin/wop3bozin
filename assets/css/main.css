@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../fonts/Product\ Sans\ Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@font-face {
+    font-family: ProductSans;
+    src: url(../fonts/Product\ Sans\ Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PeckhamPressTrial;
+    src: url(../fonts/PeckhamPress-Trial.otf);
+  }
+
+@layer base {
+    html {
+      font-family: "ProductSans", sans-serif;
+    };
+  }
+
+  h1 {
+    font-size: 81px;
+    font-weight: 700;
+    line-height: 98px;
+    letter-spacing: 0em;
+  }
+
+  h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+  }
