@@ -21,6 +21,17 @@
     src: url(../fonts/PeckhamPress-Trial.otf);
   }
 
+  @font-face {
+    font-family: Tracking;
+    src: url(../fonts/Tracking.ttf);
+  }
+
+  @font-face {
+    font-family: Tracking;
+    src: url(../fonts/Tracking-Bold.ttf);
+    font-weight: bold;
+  }
+
 @layer base {
     html {
       font-family: "ProductSans", sans-serif;
