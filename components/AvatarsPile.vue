@@ -1,5 +1,5 @@
 <template>
-  <div class="flex -space-x-2 overflow-hidden">
+  <div class="flex -space-x-2 overflow-hidden p-1">
     <img
       src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
       alt=""
@@ -21,6 +21,6 @@
 
 <style scoped>
 img {
-  @apply inline-block h-8 w-8 rounded-full ring-2 ring-white border border-2;
+  @apply inline-block h-8 w-8 rounded-full ring-2 ring-white;
 }
 </style>
