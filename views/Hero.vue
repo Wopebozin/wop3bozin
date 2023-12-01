@@ -1,6 +1,6 @@
 <template>
   <section
-    class="hero min-h-screen px-3 md:p-0 flex flex-col items-center text-white"
+    class="hero min-h-screen px-3 md:p-0 flex flex-col items-center text-white mb-20"
   >
     <Header class="md:w-3/4 xl:w-1/2 mt-5 mb-[3rem] md:mb-[6rem]" />
     <img
@@ -43,12 +43,11 @@
       </p>
     </div>
     <WaitlistJoin class="w-[98%] md:w-[484px] self-start md:self-auto" />
-    <div class="flex gap-3 items-center mb-40">
+    <div class="flex gap-3 items-center self-start md:self-auto">
       <AvatarsPile />
       <p>Join the waitlist of 200+</p>
     </div>
   </section>
-  <!-- <img src="../assets/HeroBanner.png" alt="" /> -->
 </template>
 
 <style scoped>

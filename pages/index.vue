@@ -4,4 +4,5 @@ import Hero from "../views/Hero.vue";
 
 <template>
   <Hero />
+  <Footer />
 </template>
