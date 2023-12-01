@@ -4,14 +4,14 @@
 
 @font-face {
     font-family: ProductSans;
-    src: url(../fonts/Product\ Sans\ Regular.ttf);
+    src: url(../fonts/ProductSansRegular.ttf);
     font-weight: normal;
     font-style: normal;
   }
   
 @font-face {
     font-family: ProductSans;
-    src: url(../fonts/Product\ Sans\ Bold.ttf);
+    src: url(../fonts/ProductSansBold.ttf);
     font-weight: bold;
     font-style: normal;
 }
@@ -23,8 +23,13 @@
 
 @layer base {
     html {
+      display: grid;
+      place-items: center;
       font-family: "ProductSans", sans-serif;
+      /* border: 1px solid red; */
     };
+
+    
   }
 
   h1 {
@@ -40,3 +45,7 @@
     line-height: 39px;
     letter-spacing: 0em;
   }
+
+  body {
+    width: 1440px;
+  };
