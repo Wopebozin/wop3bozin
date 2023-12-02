@@ -1,7 +1,7 @@
 <template>
   <section class="mb-[6vh] flex justify-center items-center text-white px-4">
     <div
-      class="card bg-[#8979E8] rounded-[30px] flex flex-col-reverse md:flex-row md:items-center xl:min-w-[1240px] gap-3 md:gap-[5vw] md:justify-center px-5 pt-20 md:pt-0 md:max-h-[392px] lg:max-h-[492px]"
+      class="card bg-[#8979E8] rounded-[30px] flex flex-col-reverse md:flex-row md:items-center xl:min-w-[1240px] gap-6 md:gap-[5vw] md:justify-center px-5 pt-20 md:pt-0 md:max-h-[392px] lg:max-h-[492px]"
     >
       <div>
         <img
@@ -10,7 +10,7 @@
           class="md:h-[450px] lg:h-[588.36px] md:relative md:bottom-[28px] lg:bottom-[47px]"
         />
       </div>
-      <div class="flex flex-col gap-5 md:gap-8 lg:gap-[5vh]">
+      <div class="flex flex-col gap-8 md:gap-8 lg:gap-[5vh]">
         <div class="rounded-[60px] bg-[#FFFFFF36] py-[10px] px-[15px] w-max">
           <p>Coming Soon!!! 🎉</p>
         </div>

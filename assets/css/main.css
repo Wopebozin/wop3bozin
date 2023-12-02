@@ -28,11 +28,6 @@
     font-style: normal;
   }
 
-  @font-face {
-    font-family: Tracking;
-    src: url(../fonts/Tracking-Bold.ttf);
-    font-weight: normal;
-  }
 
 @layer base {
     html {

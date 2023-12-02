@@ -2,7 +2,11 @@
   <div
     class="bar w-full rounded-[60px] flex justify-between h-[75px] py-[10px] px-[15px] bg-[#FFFFFF24]"
   >
-    <div class="logo rounded-[60px] bg-slate-200 w-20"></div>
+    <div
+      class="rounded-[60px] bg-gray-200 w-20 grid place-items-center text-black font-[Tracking] text-3xl"
+    >
+      <p>Wop3</p>
+    </div>
     <div class="flex items-center gap-5">
       <div class="flex items-center">
         <ul class="hidden sm:flex gap-4 text-white">
