@@ -8,9 +8,9 @@ import Creator from "../views/Creator.vue";
 
 <template>
   <Hero />
-  <Creator />
+  <!-- <Creator />
   <Fan />
-  <Faqs />
+  <Faqs /> -->
   <Waitlist />
   <Footer />
 </template>
