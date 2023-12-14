@@ -1,5 +1,5 @@
 <template>
-  <section class="flex justify-center mb-40">
+  <section class="flex justify-center mb-20 lg:mb-40">
     <section class="max-w-[1440px] flex flex-col overflow-hidden">
       <p
         class="font-[PeckhamPressTrial] text-[#FAFAFA] text-[100px] lg:text-[205px] leading-none -translate-x-20 lg:-translate-x-40"

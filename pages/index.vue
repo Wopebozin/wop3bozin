@@ -10,9 +10,9 @@ import About from "../views/About.vue";
 <template>
   <Hero />
   <About />
-  <!-- <Creator />
+  <Creator />
   <Fan />
-  <Faqs /> -->
+  <Faqs />
   <Waitlist />
   <Footer />
 </template>

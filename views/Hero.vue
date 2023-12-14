@@ -1,5 +1,7 @@
 <template>
-  <section class="hero min-h-screen flex justify-center mb-20">
+  <section
+    class="hero min-h-screen flex justify-center mb-20 pb-[120px] md:pb-0"
+  >
     <section
       class="px-3 md:p-0 flex flex-col items-center text-white max-w-[1440px]"
     >
@@ -51,8 +53,9 @@
     </section>
   </section>
   <section
-    class="grid place-items-center h-max overflow-hidden relative -top-60"
+    class="grid place-items-center h-max overflow-hidden relative -top-[180px] lg:-top-60 -mb-20 carousel"
   >
+    <div class="absolute bottom-0 w-full h-2/4 caro-baby"></div>
     <div class="max-w-[1440px]"><Carousel /></div>
   </section>
 </template>
@@ -89,5 +92,13 @@
     background-repeat: no-repeat;
     background-position: auto;
   }
+}
+
+.carousel {
+  backdrop-filter: blur(100px);
+}
+
+.caro-baby {
+  /* background: linear-gradient(82.18deg, #ff3461 24.04%, #fd7965 56.97%); */
 }
 </style>

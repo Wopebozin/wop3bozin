@@ -1,6 +1,6 @@
 <template>
   <section
-    class="scroll-container flex gap-10 mb-40 h-max p-5 overflow-hidden whitespace-nowrap"
+    class="scroll-container flex gap-10 h-max p-5 overflow-hidden whitespace-nowrap"
   >
     <div class="cards-group flex gap-[40px] whitespace-nowrap">
       <div

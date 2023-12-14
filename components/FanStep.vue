@@ -2,7 +2,7 @@
   <div class="flex flex-col gap-7">
     <div>
       <div
-        class="bg-[#FFEBEF] px-2 w-max rounded-full relative -rotate-12 top-4"
+        class="bg-[#FFEBEF] px-2 w-max rounded-full relative -rotate-12 top-2 lg:top-4"
       >
         <p class="text-[#fd7965]">How it works</p>
       </div>
@@ -27,7 +27,10 @@
           <h2 :class="{ 'text-[#9DA4AE]': !step.isOpen }" class="text-black">
             {{ step.title }}
           </h2>
-          <p :class="{ hidden: !step.isOpen }" class="text-[#64748B] w-[430px]">
+          <p
+            :class="{ hidden: !step.isOpen }"
+            class="text-[#64748B] w-[287px] lg:w-[430px]"
+          >
             {{ step.content }}
           </p>
         </div>
@@ -77,7 +80,7 @@ const cycleSteps = () => {
 };
 
 // Execute the cycleSteps function every 3 seconds.
-setInterval(cycleSteps, 3000);
+setInterval(cycleSteps, 6000);
 </script>
 
 <style scoped>
