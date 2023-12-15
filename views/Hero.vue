@@ -52,12 +52,12 @@
       </div>
     </section>
   </section>
-  <section
-    class="grid place-items-center h-max overflow-hidden relative -top-[180px] lg:-top-60 -mb-20 carousel"
-  >
-    <div class="absolute bottom-0 w-full h-2/4 caro-baby"></div>
+  <div
+    class="h-[30vh] relative -top-[18rem] lg:-top-[23.1rem] carousel -mb-[26rem] lg:-mb-[32rem]"
+  ></div>
+  <div class="grid place-items-center mb-20 overflow-hidden">
     <div class="max-w-[1440px]"><Carousel /></div>
-  </section>
+  </div>
 </template>
 
 <style scoped>
@@ -65,7 +65,6 @@
   background: url(../assets/HeroVector.png),
     linear-gradient(82.18deg, #ff3461 24.04%, #fd7965 56.97%),
     linear-gradient(179.79deg, rgba(255, 255, 255, 0) 74.49%, #ffffff 89.19%);
-  /* background-size: cover; */
   background-repeat: no-repeat;
   background-position: top;
   background-size: auto;
@@ -76,7 +75,6 @@
     background: url(../assets/HeroVector.png),
       linear-gradient(82.18deg, #ff3461 24.04%, #fd7965 56.97%),
       linear-gradient(179.79deg, rgba(255, 255, 255, 0) 74.49%, #ffffff 89.19%);
-    /* background-size: cover; */
     background-repeat: no-repeat;
     background-position: initial;
     background-size: auto;
@@ -95,10 +93,10 @@
 }
 
 .carousel {
-  backdrop-filter: blur(100px);
-}
-
-.caro-baby {
-  /* background: linear-gradient(82.18deg, #ff3461 24.04%, #fd7965 56.97%); */
+  background: linear-gradient(
+    179.79deg,
+    rgba(255, 255, 255, 0) 5.49%,
+    #ffffff 89.19%
+  );
 }
 </style>
