@@ -5,7 +5,7 @@
     <div
       class="rounded-[60px] bg-gray-200 w-20 grid place-items-center text-black font-[Tracking] text-3xl"
     >
-      <p>Wop3</p>
+      <p>Wop33</p>
     </div>
     <div class="flex items-center gap-5">
       <div class="flex items-center">
