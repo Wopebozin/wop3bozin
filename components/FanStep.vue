@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col gap-7">
+  <div class="flex flex-col gap-7 h-[60vh]">
     <div>
       <div
         class="bg-[#FFEBEF] px-2 w-max rounded-full relative -rotate-12 top-2 lg:top-4"
