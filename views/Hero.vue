@@ -1,7 +1,5 @@
 <template>
-  <section
-    class="hero min-h-screen flex justify-center mb-20 pb-[120px] md:pb-0"
-  >
+  <section class="hero min-h-screen flex justify-center pb-[30vh] -mb-[20vh]">
     <section
       class="px-3 md:p-0 flex flex-col items-center text-white max-w-[1440px]"
     >
@@ -46,16 +44,16 @@
         </p>
       </div>
       <WaitlistJoin class="w-[98%] md:w-[484px] self-start md:self-auto" />
-      <div class="flex gap-3 items-center self-start md:self-auto mb-20">
+      <div class="flex gap-3 items-center self-start md:self-auto">
         <AvatarsPile />
         <p>Join the waitlist of 200+</p>
       </div>
     </section>
   </section>
-  <div
-    class="h-[30vh] relative -top-[18rem] lg:-top-[23.1rem] carousel -mb-[26rem] lg:-mb-[32rem]"
-  ></div>
-  <div class="grid place-items-center mb-20 overflow-hidden">
+  <!-- <div class="relative">
+    <div class="h-[30vh] absolute carousel bottom-80"></div>
+  </div> -->
+  <div class="grid place-items-center mb-20 overflow-hidden backdrop-blur-md">
     <div class="max-w-[1440px]"><Carousel /></div>
   </div>
 </template>

@@ -97,6 +97,13 @@
   background-repeat: no-repeat;
 }
 
+.card1,
+.card2,
+.card3,
+.card4 {
+  color: white;
+}
+
 .cards-group {
   animation: scroll-left 20s linear infinite;
 }

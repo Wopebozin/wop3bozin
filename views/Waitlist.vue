@@ -4,7 +4,7 @@
       class="flex justify-center items-center text-white px-4 max-w-[1440px]"
     >
       <div
-        class="card bg-[#8979E8] rounded-[30px] flex flex-col-reverse md:flex-row md:items-center xl:min-w-[1240px] gap-6 md:gap-[5vw] md:justify-center px-5 pt-20 md:pt-0 md:max-h-[392px] lg:max-h-[492px]"
+        class="card bg-[#8979E8] rounded-[30px] flex flex-col-reverse md:flex-row md:items-center xl:min-w-[1100px] 2xl:min-w-[1240px] gap-6 md:gap-[5vw] md:justify-center px-5 pt-20 md:pt-0 md:max-h-[392px] lg:max-h-[492px]"
       >
         <div>
           <img
