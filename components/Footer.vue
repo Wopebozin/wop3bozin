@@ -32,7 +32,7 @@
                 <li>About</li>
                 <li>How it works</li>
                 <li>FAQs</li>
-                <li>Terms and Conditions</li>
+                <a href="~/Terms.pdf" target="_blank"><li>Terms and Conditions</li></a>
                 <li>Privacy Policy</li>
               </ul>
             </div>
