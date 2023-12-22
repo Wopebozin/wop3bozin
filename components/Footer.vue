@@ -32,8 +32,8 @@
                 <a href="#about"><li>About</li></a>
                 <a href="#creators"><li>How it works</li></a>
                 <a href="#faqs"> <li>FAQs</li></a>
-                <a href="~/static/Terms.pdf" target="_blank"><li>Terms and Conditions</li></a>
-                <li>Privacy Policy</li>
+                <a href="https://drive.google.com/file/d/1J-Ucs9-13Gd1HKlRwyWu0-MJ_IX2bS3r/view?usp=share_link" target="_blank"><li>Terms and Conditions</li></a>
+               <a href="https://drive.google.com/file/d/1bVNe_Fs_ffCqJ6kK2-gzj4RjYPEhUgN5/view?usp=share_link"> <li>Privacy Policy</li> </a>
               </ul>
             </div>
             <div>
