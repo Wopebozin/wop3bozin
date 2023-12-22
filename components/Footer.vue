@@ -32,16 +32,18 @@
                 <li>About</li>
                 <li>How it works</li>
                 <li>FAQs</li>
-                <a href="../static/Terms.pdf" target="_blank"><li>Terms and Conditions</li></a>
+                <a href="~/static/Terms.pdf" target="_blank"><li>Terms and Conditions</li></a>
                 <li>Privacy Policy</li>
               </ul>
             </div>
             <div>
               <ul class="flex flex-col gap-4">
                 <li class="font-bold">Social</li>
-                <li>Facebook</li>
-                <li>Instagram</li>
-                <li>X</li>
+                
+                <a href="https://facebook.com/wopebozin" target="_blank"><li>Facebook</li></a>
+                <a href="https://instagram.com/wopebozin" target="_blank"><li>Instagram</li></a>
+                <a href="https://x.com/wopebozin" target="_blank"><li>X</li></a>
+                
               </ul>
             </div>
           </div>
