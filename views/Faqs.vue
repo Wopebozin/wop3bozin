@@ -1,5 +1,5 @@
 <template>
-  <section class="mb-40 px-4 flex justify-center">
+  <section class="mb-40 px-4 flex justify-center" id="faqs">
     <div class="flex flex-col xl:flex-row">
       <div class="max-w-[507px] xl:max-w-[800px] flex flex-col gap-4 mb-10">
         <h1 class="">Frequently asked Questions</h1>

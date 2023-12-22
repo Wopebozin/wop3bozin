@@ -10,9 +10,9 @@
     <div class="flex items-center gap-5">
       <div class="flex items-center">
         <ul class="hidden sm:flex gap-4 text-white">
-          <li>About</li>
-          <li>Creators</li>
-          <li>Fans</li>
+          <a href="#about"><li>About</li></a>
+          <a href="#creators"><li>Creators</li></a>
+          <a href="#fans"><li>Fans</li></a>
           <li>Contact</li>
         </ul>
       </div>

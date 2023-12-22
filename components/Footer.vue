@@ -29,9 +29,9 @@
             <div>
               <ul class="flex flex-col gap-4">
                 <li class="font-bold">Links</li>
-                <li>About</li>
-                <li>How it works</li>
-                <li>FAQs</li>
+                <a href="#about"><li>About</li></a>
+                <a href="#creators"><li>How it works</li></a>
+                <a href="#faqs"> <li>FAQs</li></a>
                 <a href="~/static/Terms.pdf" target="_blank"><li>Terms and Conditions</li></a>
                 <li>Privacy Policy</li>
               </ul>
