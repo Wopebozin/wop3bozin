@@ -33,11 +33,7 @@
                 <a href="#creators"><li>How it works</li></a>
                 <a href="#faqs"> <li>FAQs</li></a>
                 <NuxtLink to="/terms"><li>Terms and Conditions</li></NuxtLink>
-                <a
-                  href="https://drive.google.com/file/d/1bVNe_Fs_ffCqJ6kK2-gzj4RjYPEhUgN5/view?usp=share_link"
-                >
-                  <li>Privacy Policy</li>
-                </a>
+                <NuxtLink to="/privacy"><li>Privacy Policy</li></NuxtLink>
               </ul>
             </div>
             <div>

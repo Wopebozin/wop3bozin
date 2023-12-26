@@ -56,7 +56,7 @@
           these terms and conditions.
         </p>
         <p class="font-bold italic">You must not:</p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>Republish material from Wopebozin</li>
           <li>Sell, rent or sub-license material from Wopebozin</li>
           <li>Reproduce, duplicate or copy material from Wopebozin</li>
@@ -86,7 +86,7 @@
           causes breach of these Terms and Conditions.
         </p>
         <p class="font-bold italic">You warrant and represent that:</p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>
             You are entitled to post the Comments on our website and have all
             necessary licenses and consents to do so;
@@ -117,7 +117,7 @@
           The following organizations may link to our Website without prior
           written approval:
         </p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>Government agencies;</li>
           <li>Search engines;</li>
           <li>News organizations;</li>
@@ -143,7 +143,7 @@
           We may consider and approve other link requests from the following
           types of organizations:
         </p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>commonly-known consumer and/or business information sources;</li>
           <li>dot.com</li>
           <li>community sites;</li>
@@ -181,7 +181,7 @@
         <p class="font-bold">
           Approved organizations may hyperlink to our Website as follows:
         </p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>By use of our corporate name; or</li>
           <li>By use of the uniform resource locator being linked to; or</li>
           <li>
@@ -238,7 +238,7 @@
           representations, warranties and conditions relating to our website and
           the use of this website. Nothing in this disclaimer will:
         </p>
-        <ul class="flex flex-col gap-2 list-disc">
+        <ul class="flex flex-col gap-2 list-disc ml-5">
           <li>
             limit or exclude our or your liability for death or personal injury;
           </li>
