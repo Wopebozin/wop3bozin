@@ -33,7 +33,7 @@
       <div class="text-left md:text-center text-lg mb-10 md:mb-5 md:-mt-20">
         <p class="max-w-[572px]">
           Are you a fan of amazing content creators? Do you wish you could get
-          closer to the creators you admire most? Look no further! Wopeboozin is
+          closer to the creators you admire most? Look no further! Wopebozin is
           here to revolutionize your fan experience.
           <span
             ><img
@@ -50,9 +50,6 @@
       </div>
     </section>
   </section>
-  <!-- <div class="relative">
-    <div class="h-[30vh] absolute carousel bottom-80"></div>
-  </div> -->
   <div class="grid place-items-center mb-20 overflow-hidden backdrop-blur-md">
     <div class="max-w-[1440px]"><Carousel /></div>
   </div>

@@ -8,7 +8,7 @@
         </p>
       </div>
       <div>
-        <Accordion />
+        <!-- <Accordion /> -->
       </div>
     </div>
   </section>

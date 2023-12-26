@@ -16,10 +16,17 @@
       >
         {{ item.label }}
         <span v-if="!item.isOpen"
-          ><Icon name="material-symbols:keyboard-arrow-down-rounded" size="2em"
+          ><Icon
+            name="material-symbols:keyboard-arrow-down-rounded"
+            size="2em"
+            alt="*"
         /></span>
         <span v-else>
-          <Icon name="material-symbols:keyboard-arrow-up-rounded" size="2em" />
+          <Icon
+            name="material-symbols:keyboard-arrow-up-rounded"
+            size="2em"
+            alt="^"
+          />
         </span>
       </div>
 

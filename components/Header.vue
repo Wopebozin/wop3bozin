@@ -5,7 +5,7 @@
     <div
       class="rounded-[60px] bg-gray-200 w-20 grid place-items-center text-black font-[Tracking] text-3xl"
     >
-      <img src="../assets/logo.png" alt="" srcset="">
+      <img src="../assets/logo.png" alt="wope" srcset="" />
     </div>
     <div class="flex items-center gap-5">
       <div class="flex items-center">

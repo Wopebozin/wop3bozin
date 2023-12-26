@@ -32,18 +32,25 @@
                 <a href="#about"><li>About</li></a>
                 <a href="#creators"><li>How it works</li></a>
                 <a href="#faqs"> <li>FAQs</li></a>
-                <a href="https://drive.google.com/file/d/1J-Ucs9-13Gd1HKlRwyWu0-MJ_IX2bS3r/view?usp=share_link" target="_blank"><li>Terms and Conditions</li></a>
-               <a href="https://drive.google.com/file/d/1bVNe_Fs_ffCqJ6kK2-gzj4RjYPEhUgN5/view?usp=share_link"> <li>Privacy Policy</li> </a>
+                <NuxtLink to="/terms"><li>Terms and Conditions</li></NuxtLink>
+                <a
+                  href="https://drive.google.com/file/d/1bVNe_Fs_ffCqJ6kK2-gzj4RjYPEhUgN5/view?usp=share_link"
+                >
+                  <li>Privacy Policy</li>
+                </a>
               </ul>
             </div>
             <div>
               <ul class="flex flex-col gap-4">
                 <li class="font-bold">Social</li>
-                
-                <a href="https://facebook.com/wopebozin" target="_blank"><li>Facebook</li></a>
-                <a href="https://instagram.com/wopebozin" target="_blank"><li>Instagram</li></a>
+
+                <a href="https://facebook.com/wopebozin" target="_blank"
+                  ><li>Facebook</li></a
+                >
+                <a href="https://instagram.com/wopebozin" target="_blank"
+                  ><li>Instagram</li></a
+                >
                 <a href="https://x.com/wopebozin" target="_blank"><li>X</li></a>
-                
               </ul>
             </div>
           </div>
