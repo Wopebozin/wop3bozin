@@ -9,7 +9,6 @@
           <NuxtLink to="./"><p class="underline">...go back</p></NuxtLink>
         </span>
         <p class="font-bold text-2xl text-[#fd7965]">Terms and Conditions</p>
-        <p class="font-bold text-xl">Welcome to Wopebozin!</p>
         <p>
           These terms and conditions outline the rules and regulations for the
           use of Wopebozin LLC's Website, located at wopebozin.com.
