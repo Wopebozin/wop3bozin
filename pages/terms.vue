@@ -8,7 +8,7 @@
         <span class="w-max">
           <NuxtLink to="./"><p class="underline">...go back</p></NuxtLink>
         </span>
-        <p class="font-bold text-2xl">Terms and Conditions</p>
+        <p class="font-bold text-2xl text-[#fd7965]">Terms and Conditions</p>
         <p class="font-bold text-xl">Welcome to Wopebozin!</p>
         <p>
           These terms and conditions outline the rules and regulations for the
@@ -35,7 +35,7 @@
           capitalization and/or he/she or they, are taken as interchangeable and
           therefore as referring to same
         </p>
-        <p class="font-bold text-xl">1. Cookies</p>
+        <p class="font-bold text-xl text-[#fd7965]">1. Cookies</p>
         <p>
           We employ the use of cookies. By accessing Wopebozin, you agreed to
           use cookies in agreement with the Wopebozin LLC's Privacy Policy.
@@ -47,7 +47,7 @@
           our website. Some of our affiliate/advertising partners may also use
           cookies.
         </p>
-        <p class="font-bold text-xl">2. License</p>
+        <p class="font-bold text-xl text-[#fd7965]">2. License</p>
         <p>
           Unless otherwise stated, Wopebozin LLC and/or its licensors own the
           intellectual property rights for all material on Wopebozin. All
@@ -112,7 +112,7 @@
           </li>
         </ul>
 
-        <p class="font-bold text-xl">3. Hyperlinking to our Content</p>
+        <p class="font-bold text-xl text-[#fd7965]">3. Hyperlinking to our Content</p>
         <p class="font-bold italic">
           The following organizations may link to our Website without prior
           written approval:
@@ -195,13 +195,13 @@
           </li>
         </ul>
 
-        <p class="font-bold text-xl">4. iFrames</p>
+        <p class="font-bold text-xl text-[#fd7965]">4. iFrames</p>
         <p>
           Without prior approval and written permission, you may not create
           frames around our Webpages that alter in any way the visual
           presentation or appearance of our Website.
         </p>
-        <p class="font-bold text-xl">5. Content Liability</p>
+        <p class="font-bold text-xl text-[#fd7965]">5. Content Liability</p>
         <p>
           We shall not be hold responsible for any content that appears on your
           Website. You agree to protect and defend us against all claims that is
@@ -210,7 +210,7 @@
           infringes, otherwise violates, or advocates the infringement or other
           violation of, any third party rights.
         </p>
-        <p class="font-bold text-xl">6. Reservation of Rights</p>
+        <p class="font-bold text-xl text-[#fd7965]">6. Reservation of Rights</p>
         <p>
           We reserve the right to request that you remove all links or any
           particular link to our Website. You approve to immediately remove all
@@ -219,7 +219,7 @@
           continuously linking to our Website, you agree to be bound to and
           follow these linking terms and conditions.
         </p>
-        <p class="font-bold text-xl">7. Removal of links from our website</p>
+        <p class="font-bold text-xl text-[#fd7965]">7. Removal of links from our website</p>
         <p>
           If you find any link on our Website that is offensive for any reason,
           you are free to contact and inform us any moment. We will consider
@@ -232,7 +232,7 @@
           ensure that the website remains available or that the material on the
           website is kept up to date.
         </p>
-        <p class="font-bold text-xl">8. Disclaimer</p>
+        <p class="font-bold text-xl text-[#fd7965]">8. Disclaimer</p>
         <p>
           To the maximum extent permitted by applicable law, we exclude all
           representations, warranties and conditions relating to our website and
