@@ -12,5 +12,27 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["nuxt-icon"],
+  runtimeConfig: {
+    public: {
+      smtpUser: process.env.SMTP_USER,
+      smtpPass: process.env.SMTP_PASS,
+    },
+  },
+
+  modules: [
+    'nuxt-icon',
+    ['nuxt-mail', {
+      message: {
+        to: 'myemail@gmail.com',
+      },
+      smtp: {
+        service: 'gmail',
+        auth: {
+          user: 'smtpUser',
+          pass: 'smtpPass', 
+        },
+      },
+    }],
+  ],
+
 })
